@@ -1,2 +1,3 @@
-# FucntionalPythonTests
+# FunctionalPythonTests
+
 Functional Python Exercises
