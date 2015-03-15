@@ -1,3 +1,4 @@
 # FunctionalPythonTests
 
-Functional Python Exercises
+Functional Python Exercises in order to lean fucntional programming
+
